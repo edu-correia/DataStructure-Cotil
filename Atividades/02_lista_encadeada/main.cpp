@@ -80,6 +80,8 @@ void imprime (Lista* l){
 
 int main()
 {
+    int test;
+
     Lista* l; 
     l = inicializa();
     l = insere(l, 2, 2, "CIDADE UM"); 
@@ -92,6 +94,8 @@ int main()
     cout << fixed << setprecision(2);
     
     imprime(l);
+
+    cin >> test;
     
     return 0;
 }
