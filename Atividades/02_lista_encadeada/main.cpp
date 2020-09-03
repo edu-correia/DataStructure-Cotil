@@ -1,15 +1,18 @@
-//Nome: Eduardo Correia
+﻿//Nome: Eduardo Correia
 //Turma: 2INFD
 //RA: 19120
 //Matéria: Estrutura de Dados
 //Assunto: Tipos Abstratos de Dados(TAD)
 //Criado em: 25/08/2020
-//Última vez modificado: 25/08/2020
+//Última vez modificado: 03/09/2020
 
 #include <iostream>
 #include <iomanip>
 #include <stdio.h>
 #include <stdlib.h>
+
+#include <string.h>
+#include <math.h>
 
 using namespace std;
 
