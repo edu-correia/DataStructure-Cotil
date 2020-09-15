@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600199775 source:/home/eduardo-ehsc/Documentos/projetos/ed/lista/main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1600194723 /home/eduardo-ehsc/Documentos/projetos/ed/lista/func.h
+
+1600194723 source:/home/eduardo-ehsc/Documentos/projetos/ed/lista/func.h
+
+1600199908 source:/home/eduardo-ehsc/Documentos/projetos/ed/lista/func.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
